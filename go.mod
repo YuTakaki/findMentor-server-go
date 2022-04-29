@@ -1,4 +1,4 @@
-module example/main
+module github.com/YuTakaki/findMentor-server-go
 
 go 1.18
 
